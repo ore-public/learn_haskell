@@ -5,3 +5,4 @@ encode offset msg = map (chr . (+ offset) . ord) msg
 
 decode :: Int -> String -> String
 decode shift = encode (negate shift)
+
