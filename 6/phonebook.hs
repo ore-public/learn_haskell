@@ -25,4 +25,3 @@ phoneBook = phoneBookToMap $
             ,("penny", "853-2492")
             ,("penny", "555-2111")
             ]
-M
